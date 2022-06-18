@@ -1,0 +1,333 @@
+
+NEW CHUNK
+
+We have gone so far with technology and we have seen such progress through the ages that once 
+appeared unfathomable. In reality, people have invented technology more efficiently than themselves. 
+Now the manner of life has changed and it continues to evolve. Many technologies played their part, 
+and IoT is one of them in daily life. The significance of IoT in our life becomes much more prominent
+than we expected at first. 
+
+IoT has almost changed everything in daily life. 
+We now live in the modern era. IoT devices have provided outstanding innovation in the transport 
+of information and networking in everyday life. That is why IoT has a very important impact on 
+our lives. This article discusses all IoT's everyday applications. We, therefore, need to clear 
+some basic ideas before we move any further.
+
+
+What is the Internet of Things (IoT)?
+ 
+
+The Internet of things, often known as IoT, has successfully impacted our everyday life 
+in recent years to the point where even non-technological people have begun to make use of 
+the ease, comfort, and vital information they offer. You already know how handy IoT is in your 
+daily life from connected home hubs, smart thermostats, remote door locks, and every app-controlled 
+device.
+
+ 
+
+The relevance of IoT for industrial applications and daily use is increasing. 
+It makes our lives so much better and will probably continue to do so. In addition to our 
+problems, it is solving problems that we didn't even recognize were a problem until the 
+solution mysteriously came. The term IoT refers to the ordinary items that also connect with 
+the internet that allows us to operate the "thing" of our smartphone or computer or to receive 
+data on it.
+
+
+Applications of IoT in Daily Life
+ 
+
+Emerging IoT consumer trends, like smart activewear, smart sports shoes, 
+and connected cars, tell us how close we are to the vehicles around us, along
+the best way to prevent gridlock at hours.
+
+ 
+
+Regardless of which kind of smart IoT application you use, most of you agree that 
+knowledge and convenience have saved you time, money, and a great deal of trouble. 
+Let's take a peek at everyday IoT applications we come across.
+
+ 
+
+1. In Healthcare Industry
+ 
+
+Smart toothbrush
+ 
+
+A smart toothbrush, as the name suggests, is supported by a motor that offers you brush positions, 
+speed, feedback, and how oral hygiene can be improved. A sonic motor and sensors at the head of 
+the pin are at the core of smart tooth roots, which are fitted to clean your teeth efficiently.
+
+ 
+
+A smart toothbrush has high-quality sensors that collect data on your brushes,
+missed spots, pressures, etc. You can follow this important information on your smartphone 
+and gain insights into how your oral health might be improved.
+
+ 
+
+A new smart toothbrush is introduced by Philips Sonicare which is connected to a Bluetooth app. 
+With Philips Sonicare FlexCare Platinum Connected, the new gearbox combines a variety of sensors 
+in the handle to keep track of how you brush your teeth in real-time. The data are synchronized 
+with an iOS and Android app through Bluetooth.
+
+ 
+
+The image shows the technology advancement in healthcare.
+
+IoT in Healthcare
+
+Health Monitoring
+ 
+
+Getting periodic information about the status of your kids’ or old parents’ health has 
+become an essential requirement these days. Now, health-tracking devices help you to monitor 
+their health in real-time. 
+
+ 
+
+Sudden changes in temperature, blood pressure, heart rate, breathing, etc. are notified to you, 
+thereby allowing you to take necessary actions on time. If you are a doctor and want to know your 
+patient’s status, health monitoring apps keep you updated in real-time. Typically blood pressure 
+measuring equipment includes pressure sensors, microcontrollers, display systems, battery management 
+systems, and connected (USB or wireless) communications interfaces (for example, BLE).
+
+ 
+
+Ingestible Diagnostic Devices: MIT researchers have constructed a 
+genetically modified sensor that can diagnose bleeding from the stomach or other 
+gastrointestinal (GI) issues. The sensor has not been ingested. The prototype device, 
+called IMBED, can eventually be reduced to a minimum to enhance the ingestion of a 
+human patient so that doctors can treat or diagnose a spectrum of intestinal disorders better.
+
+ 
+
+CGM Devices: Continuous CGM devices help you with less fingertip testing to 
+handle Type 1 and Type 2 diabetes. Your glucose level measures a sensor just 
+below your skin 24hours a day. A sender provides findings to a wearable gadget or 
+mobile phone. The usage of CGM takes a while, but it can help you control your health more easily. 
+
+ 
+ 
+2. In Fitness Industry
+ 
+
+The image depicts how smart shoes allow users to change the color of the shoe with one tap on 
+their smartphone.
+
+Smart shoes
+
+ 
+
+You're a freak for fitness? Now IoT devices are available to assist you in keeping fit. 
+Fitness trackers may measure your everyday activities including sleeping patterns, heart rate, 
+patterns of activity, data for workouts, burned calories, etc. Sensors and software for collecting 
+user information and data are installed on wearable devices.
+
+ 
+
+These data are subsequently pre-processed to identify key user insights. 
+These devices cover the general requirements of fitness, health, and entertainment. 
+You can easily track and plan your fitness goals using this information.
+
+ 
+
+Smart Shoes : These interactive smart shoes provide individual feedback for 
+analysis of health, fatigue, posture, steps, and calories, and the creation of 
+accurate health and injury prevention data. It can be connected to Bluetooth devices 
+effortlessly and offers individualized tutoring through a smartphone app in real-time. 
+You can work as an advanced brain.
+
+ 
+
+Also check: AI in fitness industry
+
+ 
+
+Lacing System : Yet another example is a breakthrough lacing system that 
+electronically adjusts to the shape of your foot. Get the right fit, every game, 
+every step. Instantly adjust your Nike Adapt shoes, check battery levels, and more using 
+just your smartphone.
+
+ 
+ 
+3. In Safety Industry
+ 
+
+Electronic equipment helps human beings reduce manpower efforts in day-to-day activities.  
+
+ 
+
+Child and Pet Finder
+ 
+
+The emotion when you lose your loved ones, whether it is your child or a four-legged family member, is terrible. However, you may track their location in real-time with an IoT-linked device attached to the smartphone. Thus, IoT allows you to stay in peace even when away from your loved ones.
+
+The image shows with an IoT-connected device that is connected to your smartphone, you can track your kids or pets location in real-time.
+Infant Monitor
+Infant Monitor
+ 
+
+For parents, baby monitors are a blessing. They help parents to keep their babies in control without being in the room. You may also monitor the everyday activities of your child from anywhere in the world in real-time on your smartphone. The infant monitors provide you with breathing statistics, sleeping postures, length of sleep, body temperature, etc.
+
+ 
+
+Baby Monitor: Video baby monitors are a good technique to keep your infant in the eye while you're in or away in another room. Some displays do not require Wi-Fi, so it is crucial to know what qualities you're looking for in one of the markets.
+
+ 
+
+( Recommended blog: What is a Smart City? )
+
+ 
+ 
+
+4. In Retail Industry
+ 
+
+IoT enables us to track in-store sales possibilities and to take supply and demand forecasting to the next level in real-time. It's vital to note that RFID is a well-tested aspect of IoT which may be used to manage inventories and optimize the service quality.
+
+ 
+Smart Shelves
+ 
+
+The movement around the Internet of Things (IoT) has now become a mockery. But what about retail marketers and how they deal with clients in shops? IoT provides retailers with new services, upgrades consumer experience, and enters new markets.
+
+The image depicts With sensors, cameras, and actuators embedded on shelves, retailers can get real-time updates on products, enabling them to replenish when needed.
+
+Smart Shelves
+
+Retailers can update their products in real-time with sensors, phones, and actuators built-in on the shelves to provide them with refills if needed. IoT helps shops to receive real-time alerts on their smart devices on misplaced merchandise.
+
+ 
+
+The Smart Shelf by AWM can be used in brands and businesses to include individual shoppers. Retailers utilizing Smart Shelf can see and track their products in real-time with super wide-angle low-light HD cameras.
+
+ 
+ 
+
+5. In Agriculture Industry
+ 
+
+Smart Gardening
+ 
+
+The image depicts with sensors embedded in your garden, you can get information on the condition of the soil, temperature, humidity level, and suggestions for the right time to watering plants. All of these data points can be easily controlled and managed on your smartphone.
+
+Smart Gardening
+
+ 
+
+No leisure time to water your plants? Instead, you can try smart gardening. You can gain insights on soil conditions, temperature, humidity level, and tips for watering plants at the proper moment by using sensors placed in your garden. You can easily handle and manage all these data points on your smartphone. 
+
+ 
+
+Robotic lawnmower: Robotic lawn mowers provide you with the same robotic vacuum hands-off experience. An independent robot used to cut lawn grass is a robotic lawnmower. Robotic raspberries are becoming more and more advanced, including rain sensors and some, if required, virtually eliminate human relationships. 
+
+ 
+
+Solar parasol : The control mechanism is used for onboard solar panels, and the umbrella will also be enlightenment in the evening. The crank handle makes it easy to open and close the canopy and turn on/off to enable the solar lights. These sci-fi accents raise a piedmont smart home product to one which combines a dose of pleasure with the all-important convenience of your life.
+
+ 
+
+( Recommended blog: Precision Agriculture )
+
+ 
+
+ 
+
+6. In Food Industry
+ 
+
+Smart Refrigerator
+ 
+
+The image shows that the sensors and cameras attached to new-age smart refrigerators allow you monitor spoiled food items and enables you track the vegetables & food items before the expire date.
+
+Smart Refrigerator
+
+ 
+
+How cool it is to look inside your refrigerator without opening the door! This idea isn't a fantasy any longer! You can monitor spoiled foods with sensors and cameras attached to smart computing freezers. 
+
+ 
+
+It also allows you to track food remaining without entering your door. Look upon your recipes and have your refrigerator read your cooking steps. You may build food lists that sync in real-time with your smartphone. Set expiration dates and get notifications when it is fresh to improve the nutritional quality and consume food.
+
+ 
+
+LG Smart Refrigerators launched a built-in display that will let you order groceries, play music, and more. Its current lineup of smart refrigerators doesn't have as many features; like GE's, the fridges can tell you if the door has been left open and let you adjust the temperature using your smartphone. You can access Alexa to monitor and set the temperature, and you can use both Alexa and Google Assistant to turn on the ice maker and air filter.
+
+ 
+
+( Recommended blog: AR in Healthcare )
+
+ 
+
+Some devices help spot the environmental crisis like air monitoring devices which are used by the environmental agencies/government bodies to analyze the environmental crisis.
+
+ 
+ 
+
+7. In Infrastructure Industry
+ 
+
+IoT provides insights into everything from the machine to the supply chain and logistics activities from the manufacturing floor through to consumer doors. The crucial infrastructure that keeps cars moving through the town and pumping the water into your house is a daily task for us, and most of us are completely ignorant.
+
+ 
+
+( Related blog - Supply Chain Management )
+
+ 
+
+IoT enables businesses to automate processes and save on labor. It also lowers waste and enhances service delivery, making production and distribution of items less costly and ensuring consumer interactions transparency. 
+
+ 
+
+It enables organizations to decrease costs, improve safety, and improve end-to-end quality, which is a win-win for everyone. This reduces the cost of manufacturing consumer items, makes shipping more predictable, and enables enterprises to develop, boosting our economy while offering a sense of happiness.
+
+ 
+
+The image shows that Contactless payments allows you to pay for products or services without having to physically swipe your card or pass it to another person.
+
+Touchless Transaction Devices
+
+ 
+
+Touchless Transaction Devices: The greatest IoT gadgets include those that allow without touch, e.g. contactless payment, gathering, and tracking of data. Cleanliness includes all measures that minimize germ transmission and help stop the epidemic. 
+
+ 
+
+Moreover, home automation has grown highly popular in the working-from-home era, which greatly minimizes home communication. Contactless payments are almost what they sound like—a means to pay for products or services without having to physically swipe your card or pass it to another person. You saw the technology in action if you even saw passersby tapping on their handset at a check-out counter to make up for the latte.
+
+ 
+
+Automated Fare Collection(AFC): is a ticketing system that lets passengers pay for tickets using ticket selling machines or internet services. These systems were made up of money and tokens but replaced with magnetic stripe cards or smart cards. An AFC is a base station equipment consisting of a ticket seller, an automatic gate, and a ticket inspector.
+
+ 
+
+These components are integrated systems that ensure speedier transactions, smooth transactions, and more efficient collection of payments.
+
+ 
+
+ 
+
+8. In Hospitality Industry
+ 
+
+The internet of things (IoT) transforms the hospitality industry by fundamentally changing the collection of data and user interface and automation processes by hotels, resorts, cruise ships, casinos, restaurants, and other recreation enterprises
+
+ 
+
+Climate Control Devices: The critical challenge for humanity today is certainly climate change. The worst weather conditions and record-setting temperatures have made States and countries experience higher frequency and lengthy power outages. To combat climate change, IoT can help to manage peak demand, including network stability, using linked devices such as the Thermostat. an example for the usage of climate control devices in the accommodation sector.
+
+ 
+
+Central heating system: Central heating systems in a furnace room turn the chemical energy into heat and transfer this energy into heat that is supplied in a building to many areas. Thermostat controls to regulate the temperature, which is performed by an embedded system, are essential for these systems.
+
+ 
+
+( Recommended blog: Weather Forecasting )
+
+ 
+
+We already have applications we never thought about a couple of years ago. When problems regarding robust network connectivity, security, and confidentiality come to light, our lives are disrupted by more cutting-edge applications. The future of IoT is more intriguing than this when thousands of items are spoken about and human interference is reduced. In the way, we live and work IoT will bring a massive revolution. I hope you've enjoyed reading all these strong and potential Internet of Things applications. 
