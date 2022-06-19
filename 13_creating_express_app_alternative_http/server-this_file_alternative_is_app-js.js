@@ -4,6 +4,9 @@ const http = require('http');
 // import filesystem module
 const fs = require('fs');
 
+// import lodash
+const _=require('lodash');
+
 // create server method
 // as argument it create call back function
 // send request to server
@@ -27,7 +30,6 @@ const server = http.createServer((req, res) =>
 	switch(req.url)
 	{
 		case '/':
-			res.setHeader('author','mahmudul islam'); // set a random http header
 			path +='index.html';
 			res.statusCode = 200;
 			break;
