@@ -1,0 +1,15 @@
+javascript third party package manager:
+https://www.npmjs.com/
+
+//*************************************//
+
+>> nodmon package <<
+nodemon is a tool that helps develop Node.js based applications by automatically 
+restarting the node application when file changes in the directory are detected.
+
+installation process:
+https://www.npmjs.com/package/nodemon
+
+
+npm install -g nodemon
+-g for install package globally
